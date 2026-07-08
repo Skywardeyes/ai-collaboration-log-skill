@@ -122,6 +122,14 @@ The AI organized the conversation into structured entries, emphasizing the userâ
 - If one conversation includes multiple tasks, ask the skill to split them into multiple entries.
 - If the log is committed to Git, run any required secret scan before committing.
 
+## Contributors
+
+<a href="https://github.com/Skywardeyes/ai-collaboration-log-skill/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Skywardeyes/ai-collaboration-log-skill" alt="Contributors" />
+</a>
+
 ## License
 
 This project is licensed under the terms described in the repository `LICENSE` file.
+
+
