@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "AI 协作记录整理"
+  short_description: "把用户与 AI 的问答、行动和迭代过程整理成课程/项目用的 AI 校验记录。"
+  default_prompt: "请把本次对话按“目的推测、用户提问原文、AI回答摘要、AI行为和产出文件”的格式，增量追加到指定 AI 协作记录中，并保留时间、Agent、模型和对话窗口信息。"
